@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forbes">
+        <item>Alon Mask</item>
+        <item>Bill Gates</item>
+        <item>Warren Buffett</item>
+        <item>Jeff Bezos</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+    </string-array>
+
+</resources>
